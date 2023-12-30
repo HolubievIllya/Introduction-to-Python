@@ -11,3 +11,9 @@
 - [ ] a is of type float, b is of type bool, c is of type str
 - [x] a is of type float, b is of type str, c is of type bool
 - [ ] a is of type int, b is of type bool, c is of type str
+
+#### Q3. Which one of these will throw an error?
+- [ ] "I can add integers, like " + str(5) + " to strings."
+- [ ] "I said " + ("Hey " * 2) + "Hey!"
+- [x] "The correct answer to this multiple choice exercise is answer number " + 2
+- [ ] True + False
