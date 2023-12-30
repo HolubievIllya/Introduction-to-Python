@@ -4,3 +4,9 @@
 - [ ] B
 - [ ] B and C
 - [ ] C
+
+#### Q2. What will house[-1][1] return? house = [['hallway', 11.25], ['kitchen', 18.0], ['living room', 20.0], ['bedroom', 10.75], ['bathroom', 9.5]]
+- [ ] A float: the kitchen area
+- [ ] A string: "kitchen"
+- [x] A float: the bathroom area
+- [ ] A string: "bathroom"
