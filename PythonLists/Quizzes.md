@@ -10,3 +10,9 @@
 - [ ] A string: "kitchen"
 - [x] A float: the bathroom area
 - [ ] A string: "bathroom"
+
+#### Q3. Which of the code chunks will do the job for us?
+- [ ] del(areas[10]); del(areas[11])
+- [ ] del(areas[10:11])
+- [x] del(areas[-4:-2])
+- [ ] del(areas[-3]); del(areas[-4])
